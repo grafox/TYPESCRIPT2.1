@@ -270,4 +270,4 @@ var DDInterfaces;
     new ProjectList('active');
     new ProjectList('finished');
 })(DDInterfaces || (DDInterfaces = {}));
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=bundle.js.map
